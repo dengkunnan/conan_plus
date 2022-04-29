@@ -98,6 +98,13 @@ Business architecture
 
 </center>
 
+**后端技术架构**  
+![后端技术架构.png](https://gitee.com/dengkunnanmayun/conan-docs/raw/master/readmeImage/conanSpringboot%E7%89%88%E6%9C%AC.jpg)
+<center>
+服务端架构
+</center>
+原图地址：https://www.processon.com/view/link/626bbafd5653bb5be56b3866
+<br>
 
 
 **Platform technical architecture**
@@ -147,38 +154,11 @@ https://mp.weixin.qq.com/s/1Cvi5kkqfF9y1rBi97qLwg
 
 
 
-</br>
-
-</br>
-
-
-**Project leader** - Li Ning
-
-
-
-<img src=" http://ttc-tal.oss-cn-beijing.aliyuncs.com/1606904630/image.png " width="100" height="100" align="middle" />
-
-</br>
 
 </br>
 
 
 
-**Project member** - Liu Jinsong huyaoguo dengkunnan Ji Ying
-
-
-
-<img src=" http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605698754/image.png " width="100" height="100"  />
-
-<img src=" http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605702320/image.png " width="100" height="100" />
-
-<img src=" http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605702371/image.png " width="100" height="100"  />
-
-<img src=" http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605698855/image.png " width="100" height="100"  />
-
-</br>
-
-</br>
 
 
 

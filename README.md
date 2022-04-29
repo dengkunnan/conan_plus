@@ -71,6 +71,14 @@
 
 <br>
 
+**后端技术架构**  
+![后端技术架构.png](https://gitee.com/dengkunnanmayun/conan-docs/raw/master/readmeImage/conanSpringboot%E7%89%88%E6%9C%AC.jpg)
+<center>
+服务端架构
+</center>
+原图地址：https://www.processon.com/view/link/626bbafd5653bb5be56b3866
+<br>
+
 **平台能力及功能**
 ![柯南能力图.png](http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605261800/%E6%9F%AF%E5%8D%97%E8%83%BD%E5%8A%9B%E5%9B%BE.png)
 
@@ -89,22 +97,9 @@ https://dengkunnanmayun.gitee.io/conan-docs/#/use/README
 https://mp.weixin.qq.com/s/1Cvi5kkqfF9y1rBi97qLwg
 
 </br>
-</br>
 
-**原项目负责人**-李宁
-
-<img src="http://ttc-tal.oss-cn-beijing.aliyuncs.com/1606904630/image.png" width="100" height="100" align="middle" />
-</br>
-</br>
-
-**项目成员**-刘劲松 胡耀国 邓坤楠 纪莹
-
-<img src="http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605698754/image.png" width="100" height="100"  />
-<img src="http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605702320/image.png" width="100" height="100"  /> 
-<img src="http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605702371/image.png" width="100" height="100"  />
-<img src="http://ttc-tal.oss-cn-beijing.aliyuncs.com/1605698855/image.png" width="100" height="100"  /> 
-</br>
-</br>
+**基础版本地址**
+https://github.com/tal-tech/conan
 
 **柯南官方QQ群**
 
